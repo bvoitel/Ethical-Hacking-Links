@@ -1,11 +1,11 @@
 # Ethical-Hacking-Links
 
-Here are some useful links for the CEH and CPENT course:
+## Here are some useful links for the CEH and CPENT course:
 
 Malware
-https://bazaar.abuse.ch/browse/
-https://cuckoosandbox.org/download
-https://snort.org/
+https://bazaar.abuse.ch/browse/<b>
+https://cuckoosandbox.org/download<b>
+https://snort.org/<b>
 https://securityonion.net/
 https://vx-underground.org/
 https://malapi.io/
