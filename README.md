@@ -71,3 +71,4 @@ https://exium.net
 https://github.com/mandiant/flare-vm  
 https://dorksearch.com  
 
+/github/last-commit/:user/:repo
