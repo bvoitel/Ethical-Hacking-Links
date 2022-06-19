@@ -3,21 +3,21 @@
 ## Here are some useful links for the CEH and CPENT course:
 
 Malware
-https://bazaar.abuse.ch/browse/<b>
-https://cuckoosandbox.org/download<b>
-https://snort.org/<b>
-https://securityonion.net/
-https://vx-underground.org/
-https://malapi.io/
-https://malwareunicorn.org/#/workshops
-https://www.unpac.me/#/
-https://filesec.io
-https://masterccc.github.io/memo/rop_example/
-https://github.com/daem0nc0re/macOS_ARM64_Shellcode
-https://hatching.io/blog/cuckoo-sandbox-setup/
-https://github.com/ataniazov/cuckoo-sandbox-installation
-https://www.youtube.com/watch?v=20xYpxe8mBg
-https://www.begin.re/the-workshop
+https://bazaar.abuse.ch/browse/  
+https://cuckoosandbox.org/download  
+https://snort.org/  
+https://securityonion.net/  
+https://vx-underground.org/  
+https://malapi.io/  
+https://malwareunicorn.org/#/workshops  
+https://www.unpac.me/#/  
+https://filesec.io  
+https://masterccc.github.io/memo/rop_example/  
+https://github.com/daem0nc0re/macOS_ARM64_Shellcode  
+https://hatching.io/blog/cuckoo-sandbox-setup/  
+https://github.com/ataniazov/cuckoo-sandbox-installation  
+https://www.youtube.com/watch?v=20xYpxe8mBg  
+https://www.begin.re/the-workshop  
 https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence
 https://www.intezer.com/blog/malware-analysis/malware-reverse-engineering-beginners/
 https://github.com/mytechnotalent/Reverse-Engineering
