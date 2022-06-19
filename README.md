@@ -71,4 +71,4 @@ https://exium.net
 https://github.com/mandiant/flare-vm  
 https://dorksearch.com  
 
-[![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
+
