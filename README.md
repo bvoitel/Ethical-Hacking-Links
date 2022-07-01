@@ -2,18 +2,16 @@
 
 ## Here are some useful links for the CEH and CPENT course:
 
-**Search Engines**
+**Search Engines**  
 https://shodan.io (Servers / IoT)  
 https://censys.io (Servers / IoT)  
-https://onyphe.io (Servers)
+https://onyphe.io (Servers)  
 https://dnsdumpster.com (DNS recon + subdomains)  
 https://crt.sh (certificates + subdomains)  
-https://exploit-db.com (exploits)
-https://vulners.com (exploits)
-https://fullhunt.io (attack surface)
-https://wigle.net (WiFi networks)
-
-
+https://exploit-db.com (exploits)  
+https://vulners.com (exploits)  
+https://fullhunt.io (attack surface)  
+https://wigle.net (WiFi networks)  
 
 **Malware**  
 https://bazaar.abuse.ch/browse/  
