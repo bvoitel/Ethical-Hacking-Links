@@ -2,6 +2,12 @@
 
 ## Here are some useful links for the CEH and CPENT course:
 
+*** Pentesting OS'es **
+https://www.kali.org/get-kali/ (Kali - Linux)
+https://github.com/mandiant/commando-vm (Commando VM - Windows 10)
+https://github.com/mandiant/commando-vm (Parrot - Linux)
+
+
 **Search Engines**  
 https://shodan.io (Servers / IoT)  
 https://censys.io (Servers / IoT)  
