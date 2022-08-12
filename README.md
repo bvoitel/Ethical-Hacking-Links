@@ -13,7 +13,7 @@ https://vulners.com (exploits)
 https://fullhunt.io (attack surface)  
 https://wigle.net (WiFi networks)   
 
-**Vulnerabilities**
+**Vulnerabilities**  
 https://www.hackingarticles.in/a-detailed-guide-on-responder-llmnr-poisoning/ (LLMNR/NBT-NS)  
 
 **Malware**  
@@ -89,7 +89,7 @@ https://github.com/mandiant/flare-vm
 https://dorksearch.com  
 https://github.com/Johnng007/Live-Forensicator (POWERSHELL SCRIPT TO AID LIVE FORENSICS & INCIDENCE RESPONSE)  
 
-**Practice Questions**
+**Practice Questions**  
 https://ceh.cagy.org (CEHv8 - CEHv10)  
 
 
