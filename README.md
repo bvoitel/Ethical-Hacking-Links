@@ -1,9 +1,37 @@
 # Ethical-Hacking-Links
 
 ## Here are some useful links for the CEH & CPENT course:
-**Reconnaissance**  
+**Reconnaissance / OSINT**  
+https://osintframework.com (web based framework containing different tools that you can use to carry out open-source intelligence)  
+https://tineye.com (Reverse Image Search)  
+https://www.osintcombine.com/reverse-image-analyzer (Reverse Image Search with AI/ML)  
+https://29a.ch/photo-forensics (Photo Forensics with Metadata Analysis)  
+https://pimeyes.com/en (Search engine for Face Recognition)  
+https://www.virustotal.com/gui/home/url (Analysis of Malware)  
+https://urlscan.io (Analysis of Websites for Malware)  
 https://dnsdumpster.com (Online Domain research tool, can find subdomains)  
 https://crt.sh (Certificate search, can find subdomains)  
+https://shodan.io (IoT Search Engine)  
+https://search.censys.io (IoT Search Engine)  
+https://builtwith.com (Find out what websites are Built With)  
+http://web.archive.org (Wayback Machine)  
+https://whatsmyname.app (Enumerate Usernames across Websites)  
+https://www.social-searcher.com (Free Social Media Search Engine)  
+https://www.heavy.ai/demos/tweetmap (Analysing geolocated Tweets)  
+https://intelx.io/tools?tab=youtube (YouTube Metadata Viewer)  
+http://mattw.io/youtube-metadata (YouTube Metadata Viewer)  
+https://haveibeenpwned.com (Check if your email or phone is in a data breach)  
+https://emailrep.io (Simple Email Reputation)  
+https://www.walletexplorer.com (Bitcoin block explorer with address grouping and wallet labeling)  
+https://www.bitcoinwhoswho.com (Bitcoin Address Lookup)  
+https://etherscan.io (Ethereum Blockchain Explorer)  
+https://opencellid.org (Database of cell towers)  
+https://www.osintcombine.com/data-visualization-tool (Data visualisation tool) 
+https://www.osinttechniques.com/osint-tools.html (Collection of OSINT online tools)   
+https://github.com/ElevenPaths/FOCA (tool used to find metadata and hidden information in documents)  
+https://github.com/lanmaster53/recon-ng (full-featured reconnaissance framework to conduct open source web-based reconnaissance)  
+https://www.maltego.com/downloads (OSINT tool which analyses the searches and findings graphically)  
+https://github.com/laramies/theHarvester (tool that gathers names, emails, IPs, subdomains, and URLs by using multiple public resources)  
 https://github.com/pielco11/fav-up (Lookup real IP from Cloudflare)  
 
 **Linux**  
