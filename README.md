@@ -80,3 +80,14 @@ https://github.com/Orange-Cyberdefense/GOAD (Game of Active Directory)
 https://zer1t0.gitlab.io/posts/attacking_ad (Attacking Active Directory)  
 https://github.com/lefayjey/linWinPwn (LinWinPwn - automation of Active Directory Enumeration)  
 
+
+
+
+
+
+
+
+
+
+
+<a rel="me" href="https://infosec.exchange/@hellspawn">Mastodon</a>
