@@ -84,10 +84,3 @@ https://github.com/lefayjey/linWinPwn (LinWinPwn - automation of Active Director
 
 
 
-
-
-
-
-
-
-<a rel="me" href="https://infosec.exchange/@hellspawn">Mastodon</a>
