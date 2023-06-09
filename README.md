@@ -47,6 +47,9 @@ https://security.snyk.io (Database with known vulnerabilities)
 https://filesec.io (Database of file extensions used by attackers)  
 https://andreacristaldi.github.io/APTmap (APTmap)  
 
+**Vulnerability Scanning**  
+https://de.tenable.com/products/nessus/nessus-essentials (Nessus Essentials - scan up to 16 IPs for free)  
+
 **Exploits**  
 https://exploit-db.com (Tested exploits **recommended**)  
 http://0day.today (Exploit database)  
