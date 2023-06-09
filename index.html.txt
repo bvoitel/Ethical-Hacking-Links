@@ -1,9 +1,0 @@
-<!doctype html>
-<html>
-  <head>
-    <title>Verification</title>
-  </head>
-  <body>
-    <a rel="me" href="<a rel="me" href="https://infosec.exchange/@hellspawn">Mastodon</a>">Mastodon</a>
-  </body>
-</html>
