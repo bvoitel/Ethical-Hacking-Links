@@ -73,6 +73,7 @@ RootMe (Linux, File Upload Vulnerability, Reverse Shell)
 0day (Linux, many rabbit holes, Metasploit)  
 ColddBox (Linux, Wordpress, Brute Force, Reverse Shell)  
 All in One (Linux, Wordpress, FileInclusion, Reverse Shell)  
+DogCat (Linux, LFI, Log Poisening)  
   
 **CPENT Active Directory**  
 https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2022_11.svg (AD Exploitation Mindmap)  
