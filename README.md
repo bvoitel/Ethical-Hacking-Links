@@ -1,6 +1,10 @@
 # Ethical-Hacking-Links
 
 ## Here are some useful links for the CEH & CPENT course:
+**Stay up-to-date with the latest vulnerabilities and attacks**  
+https://www.sans.org/newsletters/newsbites/ SANS NewsBites (bi-weekly)  
+https://www.sans.org/newsletters/at-risk/ SANS @Risk (weekly)  
+
 **Reconnaissance / OSINT**  
 https://osintframework.com (web based framework containing different tools that you can use to carry out open-source intelligence)  
 https://tineye.com (Reverse Image Search)  
