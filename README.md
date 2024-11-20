@@ -45,6 +45,12 @@ https://www.revshells.com (Online Reverse Shell Generator)
 **Windows**  
 https://github.com/4ndr34z/ntlmthief (NTLMThief)  
 
+*** Pentesting OS'es **
+https://www.kali.org/get-kali/ (Kali - Linux)
+https://github.com/mandiant/commando-vm (Commando VM - Windows 10)
+https://github.com/mandiant/commando-vm (Parrot - Linux)
+
+
 **Search Engines**  
 https://shodan.io (IoT Search Engine)  
 https://security.snyk.io (Database with known vulnerabilities)  
